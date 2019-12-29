@@ -12,3 +12,8 @@ body{
 .contenido {
     color: #222;
 }
+
+.master {
+    border: none;
+    margin: 0;
+}
