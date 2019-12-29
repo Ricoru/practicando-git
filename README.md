@@ -12,3 +12,5 @@
 
 ## Rama development
 Ahora tenemos 2 ramas en el proyecto
+
+- Puedo usar git checkout o git switch para realizar cambios de ramas por ejemplo: master -> dev o dev -> master
