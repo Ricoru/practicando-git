@@ -15,3 +15,4 @@ Ahora tenemos 2 ramas en el proyecto
 
 - Puedo usar git checkout o git switch para realizar cambios de ramas por ejemplo: master -> dev o dev -> master
 - git branch -D (nombre rama) con esto eliminamos la ramas locales
+- git merge --abort (puedo abortar la fusión de las ramas)
