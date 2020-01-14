@@ -17,4 +17,6 @@ Ahora tenemos 2 ramas en el proyecto
 - git branch -D (nombre rama) con esto eliminamos la ramas locales
 - git merge --abort (puedo abortar la fusión de las ramas)
 
-## Git desde VS Code
+## Git with códigofacilito.
+- git reset --soft (commit) te permite borrar los commit que estén encima de ese commit , sin perder los cambios y el Head cambia al commit donde te has situaudo.
+- git reset --hard (commit) cuando viajamos a ese commit todo los cambios q se ayan hecho por encima de este commit, se borraran.
